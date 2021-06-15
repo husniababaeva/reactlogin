@@ -1,0 +1,1 @@
+export const MOCK_URL = "http://locahost:3030"
